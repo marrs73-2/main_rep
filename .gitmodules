@@ -1,0 +1,3 @@
+[submodule "aux_rep"]
+	path = aux_rep
+	url = https://github.com/marrs73-2/aux_rep
